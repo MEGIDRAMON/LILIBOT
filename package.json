@@ -1,0 +1,12 @@
+{
+  "name": "LILIBOT",
+  "version": "0.0.0",
+  "description": "",
+  "main": "LILI.js",
+  "scripts": {
+  "start": "LILI.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
